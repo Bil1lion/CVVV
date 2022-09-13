@@ -1,0 +1,87 @@
+/***********************TAG SELECTORS***********************/
+
+
+
+  body {
+    background-color: #D1D1D1;
+    font-family: georgia, serif;
+  }
+
+  h1 {
+    color: purple;
+    font-size: 50px;
+    font-family: 'Sacramento', cursive;
+  }
+
+  h2 {
+    color: red;
+    font-family: 'Playfair Display', serif;
+
+  }
+  hr {
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 5%;
+  }
+  img:hover {
+    background-color: black;
+
+  }
+
+/***********************CLASS SELECTORS***********************/
+
+  .FOL {
+
+    background-color: #D1D1D1;
+    height: 75px;
+    width: 75px;
+  }
+
+  .circular {
+    border-radius: 100%;
+  }
+
+  .DR {
+
+    background-color: #D1D1D1;
+    height: 45px;
+    width: 40px;
+    position: fixed;
+    right: 880px;
+    top: 220px;
+  }
+
+  .PR {
+
+    background-color: #D1D1D1;
+    height: 50px;
+    width: 40px;
+    position: fixed;
+    right: 835px;
+    top: 220px;
+  }
+
+.copyright{
+  text-align: center;
+}
+
+/***********************ID SELECTORS***********************/
+
+#Title {
+  font-size: 22px;
+  color: #F66B0E;
+}
+
+
+/*CSS rules to specify families
+
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Rubik Maze', cursive;
+font-family: 'Sacramento', cursive;
+font-family: 'Silkscreen', cursive;
+*/
